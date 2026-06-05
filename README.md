@@ -20,4 +20,9 @@ Here's a qucik look at what the dashboard shows:
 
 You can also break down profits by region, see which categories perform best, and check out the profit trends over time. 
 
+**"To view the dashboard"
+**
+1. Download the .pbix file from this repository.
+2. Open the downloaded file using Power BI Desktop.
+
 
