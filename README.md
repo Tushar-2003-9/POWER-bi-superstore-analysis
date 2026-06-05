@@ -17,3 +17,7 @@ Here's a qucik look at what the dashboard shows:
 3. Total Orders:3312
    
 4. profit Margin:13%
+
+You can also break down profits by region, see which categories perform best, and check out the profit trends over time. 
+
+
