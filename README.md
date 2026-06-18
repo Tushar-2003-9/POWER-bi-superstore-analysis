@@ -1,9 +1,5 @@
 # Superstore Sales Dashboard
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
-
 ## Project Overview
 
 This Power BI dashboard provides an interactive analysis of Superstore sales performance, profitability, orders, returns, and customer purchasing trends. The dashboard helps identify high-performing categories, profitable regions, and business areas requiring improvement.
